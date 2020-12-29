@@ -10,6 +10,6 @@ It is the version 1.3 of the project
 4. It asks for adding a book
 5. It asks for returning a book
 
-Also I've appliyed many functionalities to it you can checkout those by simply runing the program and also It's super secured that It wont let someone comes and returns the book which an another person lended.
+Also I've appliyed many functionalities to it you can checkout those by simply runing the program and also It's super secured that It wont let someone come and return the book which an another person lended.
 
 I hope My project wont bore you and that's it, Have a nice day.
